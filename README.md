@@ -130,6 +130,7 @@ The backend exposes several API endpoints:
 - Express 5
 - MongoDB with Mongoose
 - JWT Authentication
+- Bcryptjs
 - Google Generative AI
 - Natural Language Processing
 - Twilio
