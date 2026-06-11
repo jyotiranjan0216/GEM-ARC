@@ -1,12 +1,9 @@
 # GEM-ARC 🎓
 ### AI-Powered University Event Management Ecosystem
 
-[![IEEE Published](<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/81a7a7fb-d7d4-4388-834f-b229556ef587" />
-)](https://ieeexplore.ieee.org/document/11438699/)
-[![Live Demo](<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/8314a9d1-e98a-4901-bf6d-4ee09317b0cc" />
-)](https://gem-arc.netlify.app)
-[![Live Demo2](<img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/db276de0-ea36-47b0-baff-32e90f9c29aa" />
-)](https://gem-arc.netlify.app)
+[![IEEE Published](https://img.shields.io/badge/IEEE-Published-blue?logo=ieee)](https://ieeexplore.ieee.org/document/11438699/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://gem-arc.netlify.app)
+[![Conference](https://img.shields.io/badge/ICCIST-2025-orange)](https://ieeexplore.ieee.org/xpl/conhome/11436007/proceeding)
 
 > 📄 **Research Paper:** [10.1109/ICCIST67338.2025.11438699](https://doi.org/10.1109/ICCIST67338.2025.11438699) — Published at ICCIST 2025, Bangalore | Added to IEEE Xplore: March 2026
 
